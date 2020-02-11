@@ -1,0 +1,25 @@
+mathtext.fontset : cm
+
+font.family : STIXGeneral
+
+figure.subplot.left : 0.1
+figure.subplot.right : 0.98
+figure.subplot.bottom : 0.16
+figure.subplot.top : 0.9
+figure.subplot.wspace : 0.33
+figure.figsize : 8, 4
+
+savefig.dpi : 200
+
+axes.labelsize : 24
+axes.grid : True
+
+lines.linewidth : 3
+
+xtick.labelsize : 16
+ytick.labelsize : 16
+
+legend.loc : upper center
+legend.fontsize : 16
+#legend.borderpad : 0.2
+#legend.columnspacing : 1.0
