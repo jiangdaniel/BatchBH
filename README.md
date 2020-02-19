@@ -1,3 +1,5 @@
+The code in this repo produces all of the plots and tables in the paper "The Power of Batching in Multiple Hypothesis Testing", which will appear in AISTATS 2020.
+
 ## Setup
 
 This code was developed using python 3.7.3. The code would likely run with anything as new as or newer than python 3.6, but this is untested. For the remainder of the README, `pip` refers to your pip installation for python3, and `python3` refers to your installation of python3.
